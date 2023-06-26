@@ -1,0 +1,6 @@
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/bin/Debug/ee1lab1.exe
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/bin/Debug/ee1lab1.pdb
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/obj/Debug/ee1lab1.csproj.AssemblyReference.cache
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/obj/Debug/ee1lab1.csproj.CoreCompileInputs.cache
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/obj/Debug/ee1lab1.exe
+/Users/leoncampean/Projects/ee1lab1/ee1lab1/obj/Debug/ee1lab1.pdb
